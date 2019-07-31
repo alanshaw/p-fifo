@@ -1,6 +1,6 @@
 {
   "name": "p-fifo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Promised First-In-First-Out buffer. Await on push to be told when a value is consumed and await on shift for a value to consume when the buffer is empty.",
   "main": "index.js",
   "scripts": {
