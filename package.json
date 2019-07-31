@@ -31,5 +31,13 @@
   "ava": {
     "babel": false,
     "compileEnhancements": false
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/p-fifo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/p-fifo/issues"
+  },
+  "homepage": "https://github.com/alanshaw/p-fifo#readme"
 }
